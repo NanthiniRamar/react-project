@@ -1,0 +1,20 @@
+.headerWrapper{
+    width: 5%;
+    max-width: 5%;
+    background-color: #068be2;
+    color: #ffffff;
+    padding: 0;
+    border-radius: 10px;
+    text-align: center;
+}
+.contentWrapper{
+    width: 70%;
+    max-width: 70%;
+}
+.sideBarWrapper{
+    width: 25%;
+    max-width: 25%;
+}
+.dashboard{
+    padding: 30px 20px;
+}
